@@ -1,0 +1,74 @@
+{
+  "pachete": [
+    {
+      "id": 1,
+      "tara": "Spania",
+      "oras": "Barcelona",
+      "imagine_pachet": "https://thesavvybackpacker.com/wp-content/uploads/2018/09/barcelona-daily-travel-costs-e1621534883807.jpg",
+      "nr_zile_concediu": 7,
+      "zi_check_in": "01.06.2024",
+      "zi_check_out": "08.06.2024",
+      "nr_pers": 2,
+      "mod_transport": "Plane",
+      "pret_sejur": 1000,
+      "moneda_sejur": "Euro",
+      "este_rezervat": 0
+    },
+    {
+      "id": 2,
+      "tara": "Italia",
+      "oras": "Roma",
+      "imagine_pachet": "https://cdn-imgix.headout.com/media/images/165e321ca296b3d670ca66eda1c489cc-Colosseum%201%201.jpg",
+      "nr_zile_concediu": 5,
+      "zi_check_in": "10.07.2024",
+      "zi_check_out": "15.07.2024",
+      "nr_pers": 4,
+      "mod_transport": "Bus",
+      "pret_sejur": 1700,
+      "moneda_sejur": "Euro",
+      "este_rezervat": 1
+    },
+    {
+      "id": 3,
+      "tara": "Franta",
+      "oras": "Paris",
+      "imagine_pachet": "https://www.purevacations.com/wp-content/uploads/2019/05/Eiffel-tour-over-Seine-river-1024x683.jpg",
+      "nr_zile_concediu": 4,
+      "zi_check_in": "15.08.2024",
+      "zi_check_out": "19.08.2024",
+      "nr_pers": 2,
+      "mod_transport": "Bus",
+      "pret_sejur": 6000,
+      "moneda_sejur": "Ron",
+      "este_rezervat": 1
+    },
+    {
+      "id": 4,
+      "tara": "Japonia",
+      "oras": "Tokyo",
+      "imagine_pachet": "https://a.cdn-hotels.com/gdcs/production172/d1381/8efd3f69-63bb-4398-a595-095cea25fc37.jpg",
+      "nr_zile_concediu": 10,
+      "zi_check_in": "01.09.2024",
+      "zi_check_out": "11.09.2024",
+      "nr_pers": 2,
+      "mod_transport": "Plane",
+      "pret_sejur": 6000,
+      "moneda_sejur": "Euro",
+      "este_rezervat": 0
+    },
+    {
+      "id": 5,
+      "tara": "Grecia",
+      "oras": "Atena",
+      "imagine_pachet": "https://www.sunrise-travel.eu/uploads/images/atena-2.jpeg",
+      "nr_zile_concediu": 6,
+      "zi_check_in": "20.09.2024",
+      "zi_check_out": "26.09.2024",
+      "nr_pers": 2,
+      "mod_transport": "Bus",
+      "pret_sejur": 4000,
+      "moneda_sejur": "Ron",
+      "este_rezervat": 0
+    }
+  ]
+}
